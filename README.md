@@ -1,9 +1,12 @@
-## Hello world! 👋
-First name Madison, known online as Madtz! currently an XX year Computer Science student @ Sacramento State University.
+# Hello world! 👋
+First name Madison, a.k.a Madtz! I'm currently a BS Computer Science student @ Sacramento State University. Currently working in data & IT.
 
-currently:
-- 💼 IT End User Experience Student Assistant @ SMUD
-- 💼 Data Visualization & Analysis Student Assistant @ OWP
-- 🔭 Practicing networking, socket programming, and cryptography.
-- 🌱 I’m currently learning Python, C/C++, and web development.
-- ⚡ Fun fact: I have two grey tabby cats!
+Privacy enthusiast. Developing interests in cybersecurity, cryptography, and ethical hacking. Always hunting for new projects!
+
+## College Internship timeline, in reverse:
+
+| Time Period | Company | Role |
+| :---     | :---:    | ---:     |
+| April 2026 - Present | Sacramento Municipal Utility District (SMUD) | IT End User Experience (EUX) Intern |
+| April 2025 - Present | Office of Water Programs (OWP) | Data Analysis & Visualization Student Assistant |
+
