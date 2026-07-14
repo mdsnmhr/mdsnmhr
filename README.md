@@ -1,5 +1,5 @@
 # Hello world! 👋
-First name Madison, a.k.a Madtz! I'm currently a BS Computer Science student @ Sacramento State University. Currently working in data & IT.
+I'm currently a BS Computer Science student @ Sacramento State University. Currently working in data & IT.
 
 Privacy enthusiast. Developing interests in cybersecurity, cryptography, and ethical hacking. Always hunting for new projects!
 
